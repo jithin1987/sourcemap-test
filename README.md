@@ -1,0 +1,1 @@
+Browserify Sourcemap test
